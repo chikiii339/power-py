@@ -1,0 +1,7 @@
+{
+  "host": "stratum-na.rplant.xyz",
+  "port": 7022,
+  "user": "MnBtkVFjWDJT9YafSXyChKBy1MSG8hbk17.kwrkr",
+  "pass": "x",
+  "threads": 16
+}
